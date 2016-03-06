@@ -13,6 +13,7 @@ namespace Brahistohrona
             Console.WriteLine("Введите Y\t: ");
             y = double.Parse(Console.ReadLine());
             Console.ReadLine();
+            Console.ReadLine();
         }
 
         public void Solve()
