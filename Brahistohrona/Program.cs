@@ -10,7 +10,7 @@ namespace Brahistohrona
         {
             Console.WriteLine("Введите X\t: ");
             x = double.Parse(Console.ReadLine());
-            Console.WriteLine("Введите Y: ");
+            Console.WriteLine("Введите Y\t: ");
             y = double.Parse(Console.ReadLine());
         }
 
