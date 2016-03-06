@@ -8,7 +8,7 @@ namespace Brahistohrona
         private double x, y;
         private void ReadData()
         {
-            Console.WriteLine("Введите X: ");
+            Console.WriteLine("Введите X\t: ");
             x = double.Parse(Console.ReadLine());
             Console.WriteLine("Введите Y: ");
             y = double.Parse(Console.ReadLine());
