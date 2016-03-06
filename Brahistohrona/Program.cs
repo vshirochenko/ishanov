@@ -15,6 +15,7 @@ namespace Brahistohrona
             Console.ReadLine();
             Console.ReadLine();
             Console.ReadLine();
+            Console.ReadLine();
         }
 
         public void Solve()
